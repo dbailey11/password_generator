@@ -6,7 +6,7 @@ The purpose of this project was to build a password generator that would provide
 
 ### Screenshots
 
-![Image of password generator](assets\password_generator_screenshot.png)
+![Image of password generator application](/assets/password_generator_screenshot.png)
 
 ## Installation
 
