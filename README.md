@@ -6,17 +6,17 @@ The purpose of this project was to build a password generator that would provide
 
 ### Screenshots
 
-![Image of password generator](assets\images\password_generator_screenshot.png)
+![Image of password generator](assets\password_generator_screenshot.png)
 
 ## Installation
 
 To run the password generator please click on the leak below. No specific requirements to run application.
 
-- From GitHub [password_generator application](#).
+- From GitHub [password_generator application](https://dbailey11.github.io/password_generator/).
 
 ## Skills
 
-![badges](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![badges](https://img.shields.io/badge/<SKILLS>-<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Resources (Documentation and other links)
 
